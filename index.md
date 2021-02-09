@@ -13,8 +13,74 @@ Source Codes will be released soon!
 
 | **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
 | :--- | :--- | :--- |
-| <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
+| <audio src="wavs/en/taco2/121_121726_000025_000001.wav" controls preload></audio> | <audio src="wavs/en/bvae/121_121726_000025_000001.wav" controls preload></audio> | <audio src="wavs/en/vara/121_121726_000025_000001.wav" controls preload></audio> |
 | --- | --- | --- |
+
+2. Text: If the child gives the effect another turn of the screw, what do you say to TWO children?
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/121_127105_000008_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/121_127105_000008_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/121_127105_000008_000002.wav" controls preload></audio> |
+| --- | --- | --- |
+
+3. Text: But Polly couldn't speak; and if Jasper hadn't caught her just in time, she would have tumbled over backward from the stool, Phronsie and all!
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/237_126133_000023_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/237_126133_000023_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/237_126133_000023_000000.wav" controls preload></audio> |
+| --- | --- | --- |
+
+
+4. Text: "But," I remarked, "since we have followed the road that Saknussemm has shown us."
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/260_123286_000016_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/260_123286_000016_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/260_123286_000016_000000.wav" controls preload></audio> |
+| --- | --- | --- |
+
+5. Text: Such is their ponderous weight that they cannot rise from the horizon; but, obeying an impulse from higher currents, their dense consistency slowly yields.
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/260_123288_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/260_123288_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/260_123288_000006_000002.wav" controls preload></audio> |
+| --- | --- | --- |
+
+6. Text: We were on the edge of the Casanova churchyard.
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/533_1066_000015_000004.wav" controls preload></audio> | <audio src="wavs/en/bvae/533_1066_000015_000004.wav" controls preload></audio> | <audio src="wavs/en/vara/533_1066_000015_000004.wav" controls preload></audio> |
+| --- | --- | --- |
+
+
+7. Text: O life of this our spring! why fades the lotus of the water? Why fade these children of the spring?
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/908_157963_000010_000000.wav" controls preload></audio> | <audio src="wavs/en/bvae/908_157963_000010_000000.wav" controls preload></audio> | <audio src="wavs/en/vara/908_157963_000010_000000.wav" controls preload></audio> |
+| --- | --- | --- |
+
+8. Text: A ring of amethyst I could not wear here, plainer to my sight, Than that first kiss.
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/908_31957_000017_000001.wav" controls preload></audio> | <audio src="wavs/en/bvae/908_31957_000017_000001.wav" controls preload></audio> | <audio src="wavs/en/vara/908_31957_000017_000001.wav" controls preload></audio> |
+| --- | --- | --- |
+
+9. Text: For a full hour he had paced up and down, waiting: but he could wait no longer.
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/1089_134691_000002_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/1089_134691_000002_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/1089_134691_000002_000002.wav" controls preload></audio> |
+| --- | --- | --- |
+
+10. Text: For a long time he had wished to explore the beautiful Land of Oz in which they lived.
+
+| **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
+| :--- | :--- | :--- |
+| <audio src="wavs/en/taco2/1284_1180_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/bvae/1284_1180_000006_000002.wav" controls preload></audio> | <audio src="wavs/en/vara/1284_1180_000006_000002.wav" controls preload></audio> |
+| --- | --- | --- |
+
 
 ## Multi-speaker TTS (Chinese)
 
