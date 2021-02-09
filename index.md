@@ -9,6 +9,39 @@ Source Codes will be released soon!
 
 ## Multi-speaker TTS (Chinese)
 
+Text: 他怎么也该留下一只让我尝尝才是呀!
+
+<audio src="wavs/zh/mig_feifei_820691.wav" controls preload></audio>
+
+Text: 我回家传照片去了,请你告诉我,凤琴的号码。
+
+<audio src="wavs/zh/tx_daji_000866.wav" controls preload></audio>
+
+Text: 李元芳大招清一波线。
+<audio src="wavs/zh/tx_guiniang_917000711.wav" controls preload></audio>
+
+
+Text: 据伦敦北区消防队的官员说,摩总统主张摩加入独联体。
+<audio src="wavs/zh/tx_daji_000591.wav" controls preload></audio>
+
+Text: 出租车里电台广告都有宣传广告,大厦财大气粗啊!
+<audio src="wavs/zh/mig_feifei_820258.wav" controls preload></audio>
+
+Text: 我在外面,随便吃点就好了。
+<audio src="wavs/zh/tx_daji_000906.wav" controls preload></audio>
+
+Text: 曹操还是有一技能三段位移的。
+<audio src="wavs/zh/tx_guiniang_917000739.wav" controls preload></audio>
+
+Text: 十年沧海,劈波斩浪。
+<audio src="wavs/zh/bb_fky_000364.wav" controls preload></audio>
+
+Text: 广东省政协常委陈缵光走进“蚁族”居所。
+<audio src="wavs/zh/bb_fky_000182.wav" controls preload></audio>
+
+Text: 在该超市的促销海报上,双汇肘花火腿”也赫然在列。
+<audio src="wavs/zh/bb_fky_000825.wav" controls preload></audio>
+
 ## Single-speaker TTS (English)
 
 Text: Once held by Hobson and Dewey, now carried by Mother Eddy and Brother Dowie.
