@@ -7,10 +7,14 @@ This paper proposes VARA-TTS, a non-autoregressive (non-AR) end-to-end text-to-s
 
 Source Codes will be released soon!  
 
-## Single-speaker TTS
+## Single-speaker TTS (English)
 
 1. Text: Once held by Hobson and Dewey, now carried by Mother Eddy and Brother Dowie.
+
 | **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
 | --- | --- | --- |
+
+## Multi-speaker TTS (Chinese)
+
