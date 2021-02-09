@@ -13,4 +13,4 @@ Source Codes will be released soon!
 | **Tacotron 2** | **BVAE-TTS** | **VARA-TTS (ours)** |
 | :--- | :--- | :--- |
 | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> | <audio src="wavs/recordings/clb/arctic_a0015.wav" controls preload></audio> |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- |
